@@ -1,2 +1,4 @@
-strategy,revenue,min_soc_mwh,max_soc_mwh
-Rule-based,521874.687123575,20.0,180.0
+strategy,revenue,min_soc_mwh,max_soc_mwh,simultaneous_intervals
+Rule-based,521874.687123575,20.0,180.0,0
+LP,1596923.8039988587,20.0,180.0,400
+MILP,1594736.3787545394,19.999999999998078,180.00000000000003,0
